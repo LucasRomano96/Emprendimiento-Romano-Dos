@@ -1,0 +1,25 @@
+.tituloCentrado{
+    text-align: center;
+    color: rgb(175, 98, 148);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    
+}
+
+body{
+    background-color: #f8ceec;
+    background-image: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
+     ;
+}
+.navbarModificada{
+    background-image: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
+     font-family: 'Nunito', sans-serif !important;
+     font-weight: 300;
+     font-size: 1.2rem !important;
+}
+.linkModificado{
+    color: rgb(211, 119, 117) !important;
+}
+a:hover{
+    background-color: mediumaquamarine;
+}
